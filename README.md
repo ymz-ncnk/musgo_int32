@@ -1,4 +1,4 @@
-# MusGo_int
+# MusGo_int32
 Provides serialization of the Golang's `int32` type.
 
 # How to use
